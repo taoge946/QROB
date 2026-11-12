@@ -1,0 +1,4 @@
+qiskit>=1.2,<3
+networkx>=2.8
+numpy>=1.24
+pandas>=1.5
